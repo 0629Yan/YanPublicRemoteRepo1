@@ -1,8 +1,6 @@
 # YanPublicRemoteRepo1
 
-Local change made by Yan Zhou.
-
-
+Local change made by Yan Zhou and Remote change made by Yan Zhou.
 
 Hi~ I am Yan Zhou, a web developer in London,ON.
 
